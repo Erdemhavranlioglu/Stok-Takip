@@ -1,0 +1,65 @@
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csprojAssemblyReference.cache
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form1.resources
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form2.resources
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Properties.Resources.resources
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.GenerateResource.cache
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\obj\Debug\Stok Takip.exe
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\obj\Debug\Stok Takip.pdb
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.istatistikForm.resources
+C:\Users\Ramazan Harmaner\source\repos\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.KullanicilarForm.resources
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csprojAssemblyReference.cache
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form1.resources
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form2.resources
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.istatistikForm.resources
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.KullanicilarForm.resources
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Properties.Resources.resources
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.GenerateResource.cache
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok Takip.exe
+C:\Users\Ramazan Harmaner\Desktop\Stok Takip\Stok Takip\obj\Debug\Stok Takip.pdb
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csprojAssemblyReference.cache
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form1.resources
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form2.resources
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.istatistikForm.resources
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.KullanicilarForm.resources
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Properties.Resources.resources
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.GenerateResource.cache
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\obj\Debug\Stok Takip.exe
+C:\Users\İbrahim Erdem\Source\Repos\Stok Takip\Stok Takip\obj\Debug\Stok Takip.pdb
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form1.resources
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form2.resources
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.istatistikForm.resources
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.KullanicilarForm.resources
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Properties.Resources.resources
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\obj\Debug\Stok Takip.exe
+C:\Users\Mert\Desktop\proje\Stok Takip\Stok Takip\obj\Debug\Stok Takip.pdb
+C:\proje\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe.config
+C:\proje\Stok Takip\Stok Takip\bin\Debug\Stok Takip.exe
+C:\proje\Stok Takip\Stok Takip\bin\Debug\Stok Takip.pdb
+C:\proje\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.AssemblyReference.cache
+C:\proje\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form1.resources
+C:\proje\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Form2.resources
+C:\proje\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.istatistikForm.resources
+C:\proje\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.KullanicilarForm.resources
+C:\proje\Stok Takip\Stok Takip\obj\Debug\Stok_Takip.Properties.Resources.resources
+C:\proje\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.GenerateResource.cache
+C:\proje\Stok Takip\Stok Takip\obj\Debug\Stok Takip.csproj.CoreCompileInputs.cache
+C:\proje\Stok Takip\Stok Takip\obj\Debug\Stok Takip.exe
+C:\proje\Stok Takip\Stok Takip\obj\Debug\Stok Takip.pdb
